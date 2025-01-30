@@ -16,14 +16,7 @@
       display: flex;
       flex-direction: column;
   
-      .boton_menu {
-        width: 70px;
-        height: 70px;
-        margin: 20px;
-        position: relative;
-        top: 137px;
-        cursor: pointer;
-      }
+      
   
       .header_contenedor_logo {
         display: flex;
@@ -51,6 +44,28 @@
   
   
           }
+        }
+        .contenedor_iconos {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+  
+          .contenedor_iconos_columna {
+  
+            h2 {
+              font-size: 20px;
+              color: #f9f5e8;
+              margin-bottom: 20px;
+            }
+  
+            img {
+              width: 45px;
+              height: 45px;
+              cursor: pointer;
+            }
+          }
+  
         }
       }
   
@@ -278,9 +293,10 @@
             display: none;
   
             .carousel_imagen_texto {
-              color: #f2f2f2;
-              font-size: 12px;
-              padding: 8px 12px;
+              color: #215214;
+              font-weight: bold;
+              font-size: 20px;
+              padding: 30px 12px;
               position: absolute;
               top: 0;
               display: flex;
@@ -417,16 +433,16 @@
             form {
   
               .elemento_formulario {
-                margin: 0 10px;
+                margin: 0 80px;
                 background: #ffffff;
                 border: 2px solid #416836;
                 border-radius: 34px;
                 height: 46px;
-                padding: 20px 20px;
+                padding: 0px 100px;
               }
   
               .boton_formulario {
-                margin: 0 30px;
+                margin: 0 80px;
                 background: #97ab91;
                 border-radius: 27px;
                 color: #fff;
@@ -455,17 +471,18 @@
   
       .contenedor_footer {
         display: flex;
-        justify-content: center;
+        justify-content: space-evenly;
         gap: 2rem;
+        align-items: flex-start;
   
         .contenedor_footer_columnas {
           h2 {
-            font-size: 27px;
+            font-size: 40px;
             color: #e5f3e1;
           }
   
           p{
-            font-size: 15px;
+            font-size: 25px;
             color: #e5f3e1;
             text-transform: capitalize;
             margin: 8px 0;
@@ -477,28 +494,7 @@
           }
         }
   
-        .contenedor_iconos {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          align-items: center;
-  
-          .contenedor_iconos_columna {
-  
-            h2 {
-              font-size: 30px;
-              color: #f9f5e8;
-              margin-bottom: 20px;
-            }
-  
-            img {
-              width: 45px;
-              height: 45px;
-              cursor: pointer;
-            }
-          }
-  
-        }
+        
       }
   
       .linea {
@@ -513,7 +509,7 @@
       }
     }
   
-    
+  
   
     
   } 
