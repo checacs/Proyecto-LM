@@ -1,0 +1,89 @@
+Diseño UI/UX para Web de Bonsáis
+
+1. Paleta de Colores:
+Opción 1: Natural y Relajante
+
+Verde bosque (#4A683F)
+Marrón tierra (#8B5A2B)
+Beige claro (#F4F1EA)
+Blanco puro (#FFFFFF)
+
+
+Opción 2: Elegante y Sofisticada
+
+Verde oscuro (#2E3D29)
+Dorado suave (#C0A875)
+Crema (#F2E6D8)
+Negro profundo (#1E1E1E)
+
+Opción 3: Suave y Minimalista
+
+Verde salvia (#A3B18A)
+Gris claro (#DAD7CD)
+Blanco cálido (#FAF3E0)
+Marrón madera (#805E3C)
+
+2. Estructura del Sitio:
+
+Home Page
+Hero image de un bonsái con un eslogan inspirador
+Barra de búsqueda prominente
+
+Menú de navegación:
+
+Inicio
+Aprender
+Tienda
+Comunidad
+Contacto
+
+Sección destacada con guías populares
+
+Productos recomendados
+Testimonios de clientes satisfechos
+Botón de suscripción al newsletter
+
+Sección Aprender
+
+Artículos sobre el cuidado de bonsáis
+Tutoriales en video
+Preguntas frecuentes
+Blog con consejos de expertos
+
+Sección de mitos y realidades sobre el bonsái
+
+Calendario de mantenimiento según la especie
+
+Tienda Online
+Categorías de productos:
+
+Bonsáis vivos
+Macetas y herramientas
+Sustratos y fertilizantes
+Libros y guías
+
+Reseñas de clientes
+
+
+Comunidad
+
+Foro de discusión
+Compartir experiencias y fotos
+Eventos y talleres
+Newsletter
+Espacio para entrevistas con expertos
+Desafíos y concursos mensuales
+
+Contacto
+Formulario de contacto
+Información de soporte y redes sociales
+
+
+3. Experiencia de Usuario (UX):
+
+Diseño intuitivo y minimalista
+Enfoque en imágenes de alta calidad
+Proceso de compra simplificado
+Adaptabilidad a dispositivos móviles
+Animaciones suaves para una experiencia agradable
+Opciones de accesibilidad para usuarios con discapacidades visuales
