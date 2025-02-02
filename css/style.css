@@ -31,7 +31,8 @@
   
           .logo {
             width: auto;
-            height: 200px;
+            height: 250%;
+            margin-left: 450px;
   
           }
   
@@ -57,11 +58,13 @@
               font-size: 20px;
               color: #f9f5e8;
               margin-bottom: 20px;
+            
             }
   
             img {
               width: 45px;
               height: 45px;
+              margin-right: 100px;
               cursor: pointer;
             }
           }
@@ -69,7 +72,7 @@
         }
       }
   
-      /*       linea de navegacion        */
+      
       .contenedor_navegacion {
         background: #97ab91;
         width: 100%;
@@ -175,6 +178,7 @@
               width: 100%;
               object-fit: cover;
               object-position: right top;
+              border-radius: 5%;
             }
   
             .contenedor_jardin_informacion {
@@ -188,6 +192,7 @@
               font-family: sans-serif;
               align-items: center;
               flex-grow: 1;
+              border-radius: 20%;
   
               h3 {
                 font-size: 23px;
@@ -217,7 +222,7 @@
   
           .contenedor_sobre_nosotros_texto {
             color: rgba(0, 0, 0, 0.82);
-            padding: 80px;
+            padding: 40px;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -235,6 +240,12 @@
             }
   
           }
+          .contenedor_sobre_nosotros_imagen img{
+            border-radius: 20px;
+            width: 100%;
+   
+          }
+          
   
           @media (max-width: 1450px)  {
             .contenedor_sobre_nosotros_texto {
@@ -245,7 +256,9 @@
           @media (max-width: 1050px)  {
             .contenedor_sobre_nosotros_imagen {
               img {
+                border-radius: 10px;
                 width: 100%;
+                
               }
             }
             
@@ -262,7 +275,7 @@
       }
   
       .seccion_carousel_imagenes {
-        padding-top: 40px;
+        padding-top: 100px;
   
         h2 {
           text-align: center;
@@ -288,9 +301,14 @@
           width: 90%;
           max-width: 1200px;
           background: #e5f3e1;
-  
+          
+        
+          
+          }
           .carousel_imagen {
             display: none;
+            
+            
   
             .carousel_imagen_texto {
               color: #215214;
@@ -303,7 +321,9 @@
             }
   
             img {
-              width: 100%
+              width: 100%;
+              border-radius: 20px;
+              
             }
           }
   
@@ -365,6 +385,7 @@
             .imagen {
               width: 100%;
               opacity: 0.6;
+              border-radius: 5%;
             }
   
             .active {
